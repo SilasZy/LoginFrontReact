@@ -11,7 +11,7 @@ const value = null;
 
         <div className="flex flex-col md:flex-row gap-10">
     <div className="flex flex-col ">
-     <p className="font-black">nome</p>
+     <p className="font-black">Nome</p>
         <input type="text" name="nome" id="nomeID" className="border p-2 rounded  border-black  outline-none bg-gray-300 border-opacity-30 w-full me-10 " />
     </div>
 
